@@ -3,7 +3,7 @@
 
 ## Submission Links
 * **Video Pitch (YouTube):** https://youtu.be/CQSJmM_WrpE?si=ZMLovUvmhq-nRtFk
-* **Presentation (Google Slides):** https://docs.google.com/presentation/d/1Nu9NasT7SFE9iDIhXJHuMaqp13b800PC/edit?usp=drivesdk&ouid=102650484468080027093&rtpof=true&sd=true
+* **Presentation (Google Slides):** https://docs.google.com/presentation/d/1es2J0-0cIytZY_D2WKHK1xmXDIuoDmZK/edit?usp=drivesdk&ouid=102650484468080027093&rtpof=true&sd=true
 * **Presentation (PDF Backup):** `CraftLedger_Track4.pdf` (uploaded in this repository)
 
 ## About SkillProof
